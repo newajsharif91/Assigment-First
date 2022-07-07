@@ -104,16 +104,9 @@ hr{
     margin: 30px;
     background: rgba(104, 102, 102, 0.068);
 }
-.section-5{
+.display-fexilable{
     display: flex;
-    
 }
-.half-width{
-    width: 20%;
-}
-.half-width img{
-  width: 80%;
-}
-.button-updown{
-   padding-bottom: 40px;
+.half-weidth{
+    width: 50%;
 }
