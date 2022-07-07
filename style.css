@@ -8,7 +8,7 @@ body{
     background-size: cover;
     padding-top: 250px;
     padding-bottom: 300px;
-    display: flexbox;
+    display: flexiable;
     background-image: linear-gradient(solid black);
 }
 .text-1 h1{
@@ -104,9 +104,18 @@ hr{
     margin: 30px;
     background: rgba(104, 102, 102, 0.068);
 }
-.display-fexilable{
-    display: flex;
-}
-.half-weidth{
+.section-container{
     width: 50%;
+    padding-bottom:100px;
 }
+.section-container-fix{
+    display: flex;
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: orange;
+    
+    
+ }
