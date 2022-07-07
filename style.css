@@ -116,6 +116,21 @@ footer{
     text-align: center;
     background-color: black;
     color: orange;
+ }
+ .section-container-button-1{
+    padding-top: 150px;
     
+ }
+ .input-text{
+    text-align: center;
     
+ }
+ .input-type{
+    outline: none;
+    border: none;
+
+ }
+ .input{
+    background-color: blue;
+    text-align: center;
  }
