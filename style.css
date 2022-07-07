@@ -31,12 +31,89 @@ color: white;
 }
 .button{
     text-align: center;
+    padding-bottom: 65px;
 }
 .text-3 h1{
    text-align: center;
    font-size: 60px;
+   padding-left: 10px;
 }
 .text-4 p{
     text-align: center;
     font-size: 20px;
+}
+.amnt-box{
+    Display:flex;
+    font-size: 35px;
+    font-weight: 500px;
+    padding-bottom: 10%;
+   }
+.Box1{
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    background: rgba(104, 102, 102, 0.068);   
+}
+span{
+    color: rgb(45, 46, 48);
+}
+
+.shadow-text{
+    text-align: center;
+    background-color: white;
+    background: fixed;
+color: rgb(190, 186, 180);
+}
+hr{
+   padding: 30px;
+   padding-left: 20px;
+   padding-right: 10px;
+}
+.text-5 h1{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(15, 15, 15);
+}
+.text-6 p{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(15, 15, 15);
+}
+.box-2{
+    Display:flex;
+    font-size: 30px;
+    font-weight: 500px;
+    padding-bottom: 10%;
+    
+}
+.box-3{
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+    background: rgba(104, 102, 102, 0.068);
+}
+.box-4{
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+    background: rgba(104, 102, 102, 0.068);
+}
+.box-5{
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+    background: rgba(104, 102, 102, 0.068);
+}
+.section-5{
+    display: flex;
+    
+}
+.half-width{
+    width: 20%;
+}
+.half-width img{
+  width: 80%;
+}
+.button-updown{
+   padding-bottom: 40px;
 }
